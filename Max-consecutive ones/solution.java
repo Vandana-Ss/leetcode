@@ -12,6 +12,7 @@ class Solution {
                 c=0;
             }
         }
-        return c;
+        return max;
     }
 }
+
