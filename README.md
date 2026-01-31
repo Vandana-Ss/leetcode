@@ -1,2 +1,2 @@
 # leetcode
-30days leetcode challenge
+30 days leetcode challenge
